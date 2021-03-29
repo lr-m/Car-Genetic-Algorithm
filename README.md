@@ -8,7 +8,7 @@ How to use:
 - Draw the track (slowly) as I need to implement some sort of linked lines implementation to allow drawing as quickly as the heart desires.
 - Once the track is drawn (ideally a circular track) then click where you want the cars to begin from (top of the screen is best)
 - Once clicked, press space to begin the cars
-- The top speed and laser speed of the cars need to be added, the AI needs to be improved so that the cars accelerate and decellerate, this would probably mean getting rid of the laser and adding checkpoints.
+- The top speed and laser speed of the cars need to be adjusted, the AI needs to be improved so that the cars accelerate and decelerate, this would probably mean getting rid of the laser and adding checkpoints.
 - Use the slider to control the number of iterations per second (its pretty quick)
 - To see the progress graph press 'g', to see the neural network in the brain of the currently best car, press 'n'
 - At the moment the AI isnt saved so its pretty pointless, but its cool to see the car learn 
