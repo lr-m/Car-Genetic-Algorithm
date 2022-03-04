@@ -1,6 +1,8 @@
 # Car_Genetic_Algorithm
 This Processing sketch allows you to draw your own track, and uses a genetic algorithm to create a car that has learned how to navigate the track. Uses a simple Neural Network as the cars brain.
 
+(This was done before I did any machine learning/AI modules so the neural network implementation is absolutely terrible and wrong, might get around to fixing it one day but somehow it works!)
+
 How to use:
 - Select the width of the track you wish to draw (in pixels)
 - Draw the track (slowly) as I need to implement some sort of linked lines implementation to allow drawing as quickly as the heart desires.
